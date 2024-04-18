@@ -1,3 +1,3 @@
 ﻿Module Variables
-    Public wuser As String = frm_Login.txtuser.Text
+    Public wuser As String = ""
 End Module

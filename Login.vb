@@ -5,7 +5,7 @@ Public Class frm_Login
         If txtuser.Text = "" Then
             MsgBox("Ingrese un usuario")
         Else
-            txtuser.Text = wuser
+            wuser = txtuser.Text
 
             If txtpsw.Text = "admin" Then
                 frm_Main.Show()

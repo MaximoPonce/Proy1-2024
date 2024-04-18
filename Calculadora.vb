@@ -92,5 +92,12 @@
         End Try
     End Sub
 
-
+    Private Sub btnLimpiar_Click(sender As Object, e As EventArgs) Handles btnLimpiar.Click
+        limpiar()
+    End Sub
+    Public Sub limpiar()
+        Me.txt_nmr1.Clear()
+        Me.txt_nmr2.Clear()
+        Me.lbl_Resultado.ResetText()
+    End Sub
 End Class

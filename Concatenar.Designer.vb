@@ -34,7 +34,7 @@ Partial Class frm_Concatenar
         Me.btn_Concatenar.Location = New System.Drawing.Point(40, 194)
         Me.btn_Concatenar.Name = "btn_Concatenar"
         Me.btn_Concatenar.Size = New System.Drawing.Size(100, 23)
-        Me.btn_Concatenar.TabIndex = 0
+        Me.btn_Concatenar.TabIndex = 1
         Me.btn_Concatenar.Text = "Concatenar"
         Me.btn_Concatenar.UseVisualStyleBackColor = True
         '
@@ -45,7 +45,7 @@ Partial Class frm_Concatenar
         Me.txt_Concatenar.Location = New System.Drawing.Point(40, 90)
         Me.txt_Concatenar.Name = "txt_Concatenar"
         Me.txt_Concatenar.Size = New System.Drawing.Size(100, 23)
-        Me.txt_Concatenar.TabIndex = 1
+        Me.txt_Concatenar.TabIndex = 0
         '
         'lbl_Concatenar
         '
@@ -53,7 +53,7 @@ Partial Class frm_Concatenar
         Me.lbl_Concatenar.Location = New System.Drawing.Point(234, 141)
         Me.lbl_Concatenar.Name = "lbl_Concatenar"
         Me.lbl_Concatenar.Size = New System.Drawing.Size(0, 15)
-        Me.lbl_Concatenar.TabIndex = 2
+        Me.lbl_Concatenar.TabIndex = 3
         '
         'Label1
         '
@@ -61,7 +61,7 @@ Partial Class frm_Concatenar
         Me.Label1.Location = New System.Drawing.Point(152, 19)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(105, 15)
-        Me.Label1.TabIndex = 3
+        Me.Label1.TabIndex = 2
         Me.Label1.Text = "Ingrese su apellido"
         '
         'lbl_user

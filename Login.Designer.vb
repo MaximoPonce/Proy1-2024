@@ -36,7 +36,7 @@ Partial Class frm_Login
         Me.btnlogin.Location = New System.Drawing.Point(132, 247)
         Me.btnlogin.Name = "btnlogin"
         Me.btnlogin.Size = New System.Drawing.Size(66, 25)
-        Me.btnlogin.TabIndex = 0
+        Me.btnlogin.TabIndex = 2
         Me.btnlogin.Text = "Aceptar"
         Me.btnlogin.UseVisualStyleBackColor = True
         '
@@ -64,14 +64,14 @@ Partial Class frm_Login
         Me.txtpsw.Name = "txtpsw"
         Me.txtpsw.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtpsw.Size = New System.Drawing.Size(100, 23)
-        Me.txtpsw.TabIndex = 3
+        Me.txtpsw.TabIndex = 1
         '
         'txtuser
         '
         Me.txtuser.Location = New System.Drawing.Point(115, 147)
         Me.txtuser.Name = "txtuser"
         Me.txtuser.Size = New System.Drawing.Size(100, 23)
-        Me.txtuser.TabIndex = 4
+        Me.txtuser.TabIndex = 0
         '
         'PictureBox1
         '
